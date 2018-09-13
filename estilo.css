@@ -1,0 +1,41 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+h1{
+	text-align: center;
+}
+span{
+	color: #f22;
+}
+fieldset{
+	max-width: 480px;
+	padding: 10px;
+	margin: 0 auto;
+}
+textarea{
+	width: 480px;
+	padding: 5px;
+	resize: none;
+}
+button{
+	display: block;
+}
+.container input{
+	width: 480px;
+	padding: 5px;
+}
+table{
+	margin: 0 auto;
+	width: 520px;
+}
+table th{
+	background: #ddd;
+	padding: 5px;
+}
+table tr:nth-child(even) {
+	background: #FFF
+}
+table tr:nth-child(odd) {
+	background: #EEE
+}
